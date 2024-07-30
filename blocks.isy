@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="blocks">
+<symbol name="mark/block(sf)" transformations="translations">
+<path stroke="sym-stroke" fill="sym-fill">
+-8 -8 m 8 -8 l 8 8 l -8 8 l h</path></symbol>
+<symbol name="mark/3x3(s)" transformations="translations">
+<path fill="sym-stroke" fillrule="eofill">
+-24 -24 m 24 -24 l 24 24 l -24 24 l h</path></symbol>
+</ipestyle>
